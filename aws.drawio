@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T11:47:00.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cZ1j6ks2Y58Cja9HT80c" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T13:05:15.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="c29dEt_RHY8NbVYDILgu" version="22.1.20" type="github">
   <diagram name="第 1 页" id="VFCjEm5W6MaqiMix1aKl">
-    <mxGraphModel dx="1876" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2086" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pPQGrUG8o8pBh9T2TDlA-16" value="" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#FF9900;fillColor=none;verticalAlign=top;align=center;fontColor=#FF9900;dashed=0;spacingTop=3;" parent="1" vertex="1">
-          <mxGeometry x="70.5" y="600" width="357" height="430" as="geometry" />
+          <mxGeometry x="70" y="600" width="357" height="430" as="geometry" />
         </mxCell>
         <mxCell id="O1jKtoPmyAMp938oBS-_-8" value="" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#FF9900;fillColor=none;verticalAlign=top;align=center;fontColor=#FF9900;dashed=0;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="70" y="90" width="357" height="480" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="O1jKtoPmyAMp938oBS-_-2" value="Admin&lt;br&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;" parent="1" vertex="1">
           <mxGeometry x="-70" y="125" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O1jKtoPmyAMp938oBS-_-15" value="資料庫" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.container_1;" parent="1" vertex="1">
+        <mxCell id="O1jKtoPmyAMp938oBS-_-15" value="管理資料庫" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.container_1;" parent="1" vertex="1">
           <mxGeometry x="342.25" y="485" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O1jKtoPmyAMp938oBS-_-17" value="人臉辨識" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.container_1;" parent="1" vertex="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="-9" y="125" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O1jKtoPmyAMp938oBS-_-46" value="要正規化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="960.25" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="1015.25" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O1jKtoPmyAMp938oBS-_-47" value="Amazon Rekognition" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rekognition;" parent="1" vertex="1">
           <mxGeometry x="678.25" y="285" width="50" height="80" as="geometry" />
@@ -209,8 +209,19 @@
         <mxCell id="Vm1vwxEjEGVl82Kh1ue6-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;發簡訊?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1015" y="303" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Vm1vwxEjEGVl82Kh1ue6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vm1vwxEjEGVl82Kh1ue6-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Vm1vwxEjEGVl82Kh1ue6-13" value="資料庫查詢" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.container_1;" vertex="1" parent="1">
-          <mxGeometry x="343" y="640" width="40" height="40" as="geometry" />
+          <mxGeometry x="343" y="670" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vm1vwxEjEGVl82Kh1ue6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vm1vwxEjEGVl82Kh1ue6-15" target="O1jKtoPmyAMp938oBS-_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vm1vwxEjEGVl82Kh1ue6-15" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="622" y="657.5" width="50" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
